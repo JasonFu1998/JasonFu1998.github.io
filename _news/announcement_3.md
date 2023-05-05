@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-01 - now
+date: 2023-01
 inline: true
 ---
 
