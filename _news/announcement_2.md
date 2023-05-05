@@ -1,6 +1,6 @@
 ---
 layout: post
-# title: A long announcement with details
+title: KTH Royal Institute of Technology
 date: 2020-08-01
 inline: false
 ---
