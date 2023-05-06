@@ -1,8 +1,8 @@
 ---
 layout: post
-title: KTH Royal Institute of Technology
+# title: KTH Royal Institute of Technology
 date: 2020-08-01
-inline: false
+inline: true
 ---
 
 KTH Royal Institute of Technology
