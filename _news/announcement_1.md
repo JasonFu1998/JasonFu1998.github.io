@@ -4,4 +4,4 @@ p: Sep, 2016 - Jul, 2020
 inline: true
 ---
 
-Zhejiang University
+B.Eng. in Opto-Electronics Information Science and Engineering, Zhejiang University

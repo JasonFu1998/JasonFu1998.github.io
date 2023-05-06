@@ -12,7 +12,9 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Doktorand at RISE Research Institutes of Sweden.
+Doktorand researcher at RISE Research Institutes of Sweden.
+
+My research topic is adversarial robust multimodal machine learning.
 
 In building...
 

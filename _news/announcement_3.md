@@ -1,7 +1,8 @@
 ---
 layout: post
-p: Jan, 2023 - now
+# title: KTH Royal Institute of Technology
+p: Sep, 2021 - Jan, 2022
 inline: true
 ---
 
-KTH Royal Institute of Technology
+Master Semester Exchange, ETH Swiss Federal Institute of Technology in Zürich
