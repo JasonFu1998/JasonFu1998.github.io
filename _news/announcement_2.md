@@ -1,7 +1,7 @@
 ---
 layout: post
 # title: KTH Royal Institute of Technology
-date: 2020-08-01
+p: Aug, 2020 - Sep, 2022
 inline: true
 ---
 
