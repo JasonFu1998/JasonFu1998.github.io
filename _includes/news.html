@@ -1,24 +1,14 @@
           
           <div class="news">
-            <h2>Educations</h2>
-            {% if site.news != blank -%} 
+            <h2>Educations</h2> 
             <div class="table-responsive">
               <table class="table table-sm table-borderless">
-              {%- assign news = site.news | reverse -%} 
-              {%- item = news[0] -%}
                 <tr>
-                  <th scope="row">{{ item.p }}</th>
+                  <th scope="row">2022</th>
                   <td>
-                    {% if item.inline -%} 
-                      {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-                    {%- else -%} 
-                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                    {%- endif %} 
+                    test
                   </td>
                 </tr> 
               </table>
             </div>
-            {%- else -%} 
-            <p>No news so far...</p>
-            {%- endif %} 
           </div>
