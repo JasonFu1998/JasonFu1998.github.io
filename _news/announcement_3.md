@@ -1,8 +1,7 @@
 ---
 layout: post
-# title: KTH Royal Institute of Technology
-p: Sep, 2021 - Jan, 2022
+p: Jan, 2023 - now
 inline: true
 ---
 
-Master Semester Exchange, ETH Swiss Federal Institute of Technology in Zürich
+Ph.D. Candidate in Computer Science, KTH Royal Institute of Technology

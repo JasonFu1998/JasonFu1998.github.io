@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Doktorand researcher at <a href='https://www.ri.se/en'>RISE Research Institutes of Sweden</a>.
 
 profile:
   align: right
@@ -12,9 +12,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Doktorand researcher at RISE Research Institutes of Sweden.
-
-My research topic is adversarial robust multimodal machine learning.
+I am now working on adversarial robust multimodal machine learning under the supervision of <a href='https://scholar.google.com/citations?user=DqynYRgAAAAJ&hl=en'>Anders Holst</a>.
 
 In building...
 
