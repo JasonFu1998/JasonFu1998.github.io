@@ -15,7 +15,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 👧🏻  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://JasonFu1998.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -58,7 +58,7 @@ github_username: JasonFu1998 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: jia-fu-9a96211ba # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: vK6jKMoAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
