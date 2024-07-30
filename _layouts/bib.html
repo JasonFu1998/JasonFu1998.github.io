@@ -33,7 +33,7 @@
           {%- for author in entry.author_array -%}
             {%- assign author_is_self = false -%}
             {%- if author.last == site.scholar.last_name%}
-              {%- if author.first contains site.scholar.first_name -%}
+              {%- if author.first contains "J." -%}
                 {%- assign author_is_self = true -%}
               {%- endif -%}
             {%- endif -%}
