@@ -2,17 +2,19 @@
 layout: about
 title: home
 permalink: /
-subtitle: Doktorand researcher at <a href='https://www.ri.se/en'>RISE Research Institutes of Sweden</a>.
+subtitle: "**Doktorand Researcher at RISE Research Institutes of Sweden**"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am now working on adversarial robust multimodal machine learning under the supervision of <a href='https://scholar.google.com/citations?user=DqynYRgAAAAJ&hl=en'>Anders Holst</a>.
+As a researcher affiliated with <a href='https://www.ri.se/en/ai-center'>RISE AI Center</a>, I am working on robust multimodal machine learning. My base is at Stockholm currently.
+
+My supervisors are <a href='https://scholar.google.com/citations?user=DqynYRgAAAAJ&hl=en'>Anders Holst</a>, <a href='https://scholar.google.com/citations?user=dP8O7_AAAAAJ&hl=en'>Sepideh Pashami</a>, and <a href='https://scholar.google.com/citations?user=L-lz7CUAAAAJ&hl=en'>Xiao Zhang</a>.
 
 In building...
 
