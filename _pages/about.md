@@ -6,7 +6,7 @@ subtitle: "**Doktorand Researcher at RISE Research Institutes of Sweden**"
 
 profile:
   align: right
-  image: prof_pic.png
+  image: /assets/img/prof_pic.png
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
