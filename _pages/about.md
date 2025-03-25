@@ -6,13 +6,13 @@ subtitle: "**Doktorand Researcher at RISE Research Institutes of Sweden**"
 
 profile:
   align: right
-  image: /assets/img/prof_pic.png
+  image: 10.jpg
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-As a researcher affiliated with <a href='https://www.ri.se/en/ai-center'>RISE AI Center</a>, I am working on robust multimodal machine learning. My base is at Stockholm currently.
+As a researcher affiliated with <a href='https://www.ri.se/en/ai-center'>RISE AI Center</a>, I am working on robust multimodal machine learning. I am currently based in Stockholm.
 
 My supervisors are <a href='https://scholar.google.com/citations?user=DqynYRgAAAAJ&hl=en'>Anders Holst</a>, <a href='https://scholar.google.com/citations?user=dP8O7_AAAAAJ&hl=en'>Sepideh Pashami</a>, and <a href='https://scholar.google.com/citations?user=L-lz7CUAAAAJ&hl=en'>Xiao Zhang</a>.
 
