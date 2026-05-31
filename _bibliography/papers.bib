@@ -19,7 +19,7 @@
   html = {https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11169/111690B/Semantic-segmentation-of-panoramic-images-using-a-synthetic-dataset/10.1117/12.2532494.short},
   pdf = {1.pdf},
   image = {seg.png},
-  selected = {true},
+  selected = {},
   comments = {}
 }
 
@@ -107,6 +107,50 @@
   html = {https://openaccess.thecvf.com/content/WACV2025/html/Fu_DiffPAD_Denoising_Diffusion-Based_Adversarial_Patch_Decontamination_WACV_2025_paper.html},
   pdf = {DiffPAD.pdf},
   image = {DiffPAD.png},
+  selected = {true},
+  comments = {}
+}
+
+@inproceedings{DiffCAP,
+  abstract = {Vision Language Models (VLMs) have shown remarkable capabilities in multimodal understanding, yet their susceptibility to adversarial perturbations poses a significant threat to their reliability in real-world applications. Despite often being imperceptible to humans, these perturbations can drastically alter model outputs, leading to erroneous interpretations and decisions. This paper introduces DiffCAP, a novel diffusion-based purification strategy that can effectively neutralize adversarial corruptions in VLMs. We theoretically establish a provable recovery region in the forward diffusion process and meanwhile quantify the convergence rate of semantic variation with respect to VLMs. These findings manifest that adversarial effects monotonically fade as diffusion unfolds. Guided by this principle, DiffCAP leverages noise injection with a similarity threshold of VLM embeddings as an adaptive criterion, before reverse diffusion restores a clean and reliable representation for VLM inference. Through extensive experiments across six datasets with three VLMs under varying attack strengths in three task scenarios, we show that DiffCAP outperforms existing defense techniques by a substantial margin. Notably, DiffCAP significantly reduces both hyperparameter tuning complexity and the required diffusion time, thereby accelerating the denoising process. Equipped with theorems and empirical support, DiffCAP provides a robust and practical solution for securely deploying VLMs in adversarial environments.}
+  author = {J. Fu and Y. Wu and Y. Chen and K. Peng and X. Zhang and V. Cevher adn S. Pashami and A. Holst},
+  title = {Diffusion-based cumulative adversarial purification for vision language models},
+  volume = {},
+  booktitle = {Transactions on Machine Learning Research,},
+  editor = {},
+  organization = {},
+  publisher = {},
+  pages = {},
+  keywords = {},
+  month = {June},
+  year = {2026},
+  doi = {},
+  URL = {},
+  html = {https://openreview.net/forum?id=kpuV3mzwqw},
+  pdf = {DiffCAP.pdf},
+  image = {DiffCAP.png},
+  selected = {true},
+  comments = {}
+}
+
+@inproceedings{GoBeyondEarth,
+  abstract = {Despite substantial progress in video understanding, most existing datasets are limited to Earth’s gravitational conditions. However, microgravity alters human motion, interactions, and visual semantics, revealing a critical gap for real-world vision systems. This presents a challenge for domain-robust video understanding in safety-critical space applications. To address this, we introduce MicroG-4M, the first benchmark for spatio-temporal and semantic understanding of human activities in microgravity. Constructed from real-world space missions and cinematic simulations, the dataset includes 4,759 clips with 13,261 action annotations covering 50 actions, 1,238 context-rich captions, and over 7,000 question–answer pairs on astronaut activities and scene understanding. MicroG-4M aims to support three core tasks: fine-grained multi-label action recognition, temporal video captioning, and visual question answering, thereby enabling a comprehensive evaluation of both spatial localization and semantic reasoning in microgravity contexts. We establish baselines using state-of-the-art models. All data, annotations, and code are available at https://github.com/lei-qi-233/MicroG-4M.}
+  author = {D. Wen and L. Qi and K. Peng and K. Yang and F. Teng and A. Luo and J. Fu and Y. Chen and R. Liu and Y. Shi and M. Sarfraz and R. Stiefelhagen},
+  title = {Go beyond earth: understanding human actions and scenes in microgravity environments.},
+  volume = {},
+  booktitle = {International Conference on Learning Representations, Rio de Janeiro, Brazil,},
+  editor = {},
+  organization = {},
+  publisher = {},
+  pages = {},
+  keywords = {},
+  month = {April},
+  year = {2026},
+  doi = {},
+  URL = {},
+  html = {https://iclr.cc/virtual/2026/poster/10008098}
+  pdf = {GBE.pdf},
+  image = {GBE.png},
   selected = {true},
   comments = {}
 }

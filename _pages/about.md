@@ -16,7 +16,6 @@ As a researcher affiliated with <a href='https://www.ri.se/en/ai-center'>RISE AI
 
 My supervisors are <a href='https://scholar.google.com/citations?user=DqynYRgAAAAJ&hl=en'>Anders Holst</a>, <a href='https://scholar.google.com/citations?user=dP8O7_AAAAAJ&hl=en'>Sepideh Pashami</a>, and <a href='https://scholar.google.com/citations?user=L-lz7CUAAAAJ&hl=en'>Xiao Zhang</a>.
 
-In building...
 
 <!--Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.-->
 
