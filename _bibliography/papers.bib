@@ -23,7 +23,7 @@
   comments = {}
 }
 
-@inproceedings{10.1145/3577190.3614114,
+@inproceedings{CANet,
   abstract = {Dance improvisation is an active research topic in the arts. Motion analysis of improvised dance can be challenging due to its unique dynamics. Data-driven dance motion analysis, including recognition and generation, is often limited to skeletal data. However, data of other modalities, such as audio, can be recorded and benefit downstream tasks. This paper explores the application and performance of multimodal fusion methods for human motion recognition in the context of dance improvisation. We propose an attention-based model, component attention network (CANet), for multimodal fusion on three levels: 1) feature fusion with CANet, 2) model fusion with CANet and graph convolutional network (GCN), and 3) late fusion with a voting strategy. We conduct thorough experiments to analyze the impact of each modality in different fusion methods and distinguish critical temporal or component features. We show that our proposed model outperforms the two baseline methods, demonstrating its potential for analyzing improvisation in dance.},
   author = {J. Fu and J. Tan and W. Yin and S. Pashami and M. Björkman},
   title = {Component attention network for multimodal dance improvisation recognition},
@@ -112,7 +112,7 @@
 }
 
 @article{DiffCAP,
-  abstract = {Vision Language Models (VLMs) have shown remarkable capabilities in multimodal understanding, yet their susceptibility to adversarial perturbations poses a significant threat to their reliability in real-world applications. Despite often being imperceptible to humans, these perturbations can drastically alter model outputs, leading to erroneous interpretations and decisions. This paper introduces DiffCAP, a novel diffusion-based purification strategy that can effectively neutralize adversarial corruptions in VLMs. We theoretically establish a provable recovery region in the forward diffusion process and meanwhile quantify the convergence rate of semantic variation with respect to VLMs. These findings manifest that adversarial effects monotonically fade as diffusion unfolds. Guided by this principle, DiffCAP leverages noise injection with a similarity threshold of VLM embeddings as an adaptive criterion, before reverse diffusion restores a clean and reliable representation for VLM inference. Through extensive experiments across six datasets with three VLMs under varying attack strengths in three task scenarios, we show that DiffCAP outperforms existing defense techniques by a substantial margin. Notably, DiffCAP significantly reduces both hyperparameter tuning complexity and the required diffusion time, thereby accelerating the denoising process. Equipped with theorems and empirical support, DiffCAP provides a robust and practical solution for securely deploying VLMs in adversarial environments.},
+  abstract = {Vision Language Models (VLMs) have shown remarkable capabilities in multimodal understanding, yet their susceptibility to adversarial perturbations poses a significant threat to their reliability in real-world applications. Despite often being imperceptible to humans, these perturbations can drastically alter model outputs, leading to erroneous interpretations and decisions. This paper introduces DiffCAP, a novel diffusion-based purification strategy that can effectively neutralize adversarial corruptions in VLMs. We theoretically establish a provable recovery region in the forward diffusion process and meanwhile quantify the convergence rate of semantic variation with respect to VLMs. These findings manifest that adversarial effects monotonically fade as diffusion unfolds. Guided by this principle, DiffCAP leverages noise injection with a similarity threshold of VLM embeddings as an adaptive criterion, before reverse diffusion restores a clean and reliable representation for VLM inference. Through extensive experiments across six datasets with three VLMs under varying attack strengths in three task scenarios, we show that DiffCAP outperforms existing defense techniques by a substantial margin. Notably, DiffCAP significantly reduces both hyperparameter tuning complexity and the required diffusion time, thereby accelerating the denoising process. Equipped with theorems and empirical support, DiffCAP provides a robust and practical solution for securely deploying VLMs in adversarial environments. The source code is available at https://github.com/JasonFu1998/DiffCAP.},
   author = {J. Fu and Y. Wu and Y. Chen and K. Peng and X. Zhang and V. Cevher and S. Pashami and A. Holst},
   title = {Diffusion-based cumulative adversarial purification for <br> vision language models},
   volume = {},
@@ -127,7 +127,7 @@
   doi = {},
   URL = {},
   html = {https://openreview.net/forum?id=kpuV3mzwqw},
-  pdf = {DiffPAD.pdf},
+  pdf = {DiffCAP.pdf},
   image = {CAP.png},
   selected = {true},
   comments = {}
